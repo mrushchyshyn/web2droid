@@ -20,8 +20,8 @@ sudo cp web2droid.py /usr/local/bin/web2droid
 ```bash
 web2droid index.html
 ```
-3. Follow the prompts for App Name, Version, and Icon.
-4. Find your signed .apk in the current directory.
+3. Follow the prompts for App Name, Version, Icon and Android App Bundle.
+4. Find your signed .apk and .aab in the current directory.
 
 ### 📋 Requirements
 
