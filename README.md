@@ -4,7 +4,7 @@ Convert HTML/CSS/JS projects to native Android APKs in seconds. A lightweight, z
 
 ---
 
-### ⚡ Quick Start
+### ⚡ Quick Start (Linux)
 
 ### Installation
 
