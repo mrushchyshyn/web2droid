@@ -67,6 +67,11 @@ web2droid index.html
 
 ---
 
+### BETA Features
+- Allows users to build apps with BLE (Bluetooth Low Energy) support.
+- BETA version code available in /beta directory, works for Windows only by now.
+- Full release, Linux support and docs will be added in next update.
+
 ### 📝 To-Do List
 
 - Multi-file Project Support: Allow bundling of local JS, CSS, and image assets referenced in index.html.
