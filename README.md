@@ -12,7 +12,7 @@ Convert HTML/CSS/JS projects to native Android APKs in seconds. A lightweight, z
 git clone https://github.com/mrushchyshyn/web2droid.git
 cd web2droid
 chmod +x web2droid.py
-sudo cp web2droid.py /usr/local/bin/web2droid
+sudo ln -s web2droid.py /usr/local/bin/web2droid
 ```
 
 ---
