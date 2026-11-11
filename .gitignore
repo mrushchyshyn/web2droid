@@ -1,0 +1,8 @@
+*.apk
+*.aab
+*.idsig
+*.jks
+*.keystore
+build_temp_*/
+__pycache__/
+web2droid.cmd
